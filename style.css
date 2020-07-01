@@ -4,9 +4,9 @@
     background-color: #B0B7BC;
 }
 
-@media (max-width: 600px) {
-  * {
-    font-size: 4vw;
+@media screen and (max-width: 600px) {
+  ul {
+    font-size: 3.5vw;
   }
   
 }
