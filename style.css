@@ -4,6 +4,15 @@
     background-color: #B0B7BC;
 }
 
+@media (max-width: 600px) {
+  * {
+    font-size: 4vw;
+  }
+  
+}
+
+
+
 img {
     max-width: 100%;
     display: block;
@@ -11,6 +20,7 @@ img {
     border-radius: 2%;
     
 }
+
 
 body {
   background-color: #046eb4;
